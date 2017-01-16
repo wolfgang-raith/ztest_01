@@ -1,0 +1,4 @@
+GitHub.IO.ProcessException: fatal: unable to access 'https://github.com/wolfgang-raith/ztest_01/': Failed to connect to github.com port 443: Timed out
+
+
+diese meldung erscheint im log beim versuch eien sync zwischen Lokaler workcopy und git-master zu machen.
